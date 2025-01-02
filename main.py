@@ -49,7 +49,7 @@ while True:
             number = int(user_action[9:])
 
             todos = get_todos()
-            to_do_remove = todos[number-1].strip('\n') #we make this variable to show to the user which todo was deleted
+            to_do_remove = todos[number-1].strip('\n') #we make this variable to show to the user which to do was deleted
             todos.pop(number-1)
 
             write_todos(todos)
