@@ -1,11 +1,6 @@
-fix bugs in program
-sleep
-fix
-najti terapevta
-kupitj cvetochki
-Make soup
-Make pizza
-
+Task 1Make pizza 2Make pizza
 Master Python
 Master Python 2
 Master Python 2
+Go to workMake pizza 2
+Make pizza 2
